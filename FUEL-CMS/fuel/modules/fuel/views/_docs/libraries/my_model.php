@@ -1,1 +1,0 @@
-<?=generate_docs('MY_Model', 'core', 'fuel')?>
